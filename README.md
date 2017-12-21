@@ -1,6 +1,6 @@
 # dagger2retofit2
 
-[https://guides.codepath.com/android/Dependency-Injection-with-Dagger]
+<https://guides.codepath.com/android/Dependency-Injection-with-Dagger-2#overview>
 
 android studio 3.0.1
 
